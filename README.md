@@ -1,6 +1,6 @@
 # URL Pages
 
-[jstrieb.github.io/urlpages](http://jstrieb.github.io/urlpages)
+[fgiordano.tech/urlpages](http://fgiordano.tech/urlpages)
 
 ## About
 
@@ -105,7 +105,7 @@ case, it is actually very handy and robust!
 ## Examples
 
 The following examples were made and "published" using the provided [code
-editor](http://jstrieb.github.io/urlpages/editor).
+editor](http://fgiordano.tech/urlpages/editor).
 
 - My personal website
     - Code in the code editor [here](https://tinyurl.com/y64dmsqm)
@@ -115,20 +115,20 @@ editor](http://jstrieb.github.io/urlpages/editor).
     - "Published" version [here](https://tinyurl.com/y3lw36uh)
 - A page with embedded images (no external image host)
     - Code in the code editor
-      [here](http://jstrieb.github.io/urlpages/examples/embed-code.html)
+      [here](http://fgiordano.tech/urlpages/examples/embed-code.html)
     - "Published" page
-      [here](http://jstrieb.github.io/urlpages/examples/embed-page.html)
+      [here](http://fgiordano.tech/urlpages/examples/embed-page.html)
 
 The following examples were cloned from existing pages using the bookmarklet.
 
 - My dad's food blog
-  [here](http://jstrieb.github.io/urlpages/examples/food-blog.html)
-- The entire [editor](http://jstrieb.github.io/urlpages/editor) encoded in the
+  [here](http://fgiordano.tech/urlpages/examples/food-blog.html)
+- The entire [editor](http://fgiordano.tech/urlpages/editor) encoded in the
   URL [here](https://tinyurl.com/y6nx5347)
 - This GitHub project page
-  [here](http://jstrieb.github.io/urlpages/examples/project-page.html)
+  [here](http://fgiordano.tech/urlpages/examples/project-page.html)
 - A cloned New York Times Article
-  [here](http://jstrieb.github.io/urlpages/examples/nyt.html)
+  [here](http://fgiordano.tech/urlpages/examples/nyt.html)
 
 
 ## Bookmarklet
