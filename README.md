@@ -1,6 +1,6 @@
 # URL Pages
 
-[fgiordano.tech/urlpages](http://fgiordano.tech/urlpages)
+[franco.giordano.ar/urlpages](http://franco.giordano.ar/urlpages)
 
 ## About
 
@@ -105,7 +105,7 @@ case, it is actually very handy and robust!
 ## Examples
 
 The following examples were made and "published" using the provided [code
-editor](http://fgiordano.tech/urlpages/editor).
+editor](http://franco.giordano.ar/urlpages/editor).
 
 - My personal website
     - Code in the code editor [here](https://tinyurl.com/y64dmsqm)
@@ -115,20 +115,20 @@ editor](http://fgiordano.tech/urlpages/editor).
     - "Published" version [here](https://tinyurl.com/y3lw36uh)
 - A page with embedded images (no external image host)
     - Code in the code editor
-      [here](http://fgiordano.tech/urlpages/examples/embed-code.html)
+      [here](http://franco.giordano.ar/urlpages/examples/embed-code.html)
     - "Published" page
-      [here](http://fgiordano.tech/urlpages/examples/embed-page.html)
+      [here](http://franco.giordano.ar/urlpages/examples/embed-page.html)
 
 The following examples were cloned from existing pages using the bookmarklet.
 
 - My dad's food blog
-  [here](http://fgiordano.tech/urlpages/examples/food-blog.html)
-- The entire [editor](http://fgiordano.tech/urlpages/editor) encoded in the
+  [here](http://franco.giordano.ar/urlpages/examples/food-blog.html)
+- The entire [editor](http://franco.giordano.ar/urlpages/editor) encoded in the
   URL [here](https://tinyurl.com/y6nx5347)
 - This GitHub project page
-  [here](http://fgiordano.tech/urlpages/examples/project-page.html)
+  [here](http://franco.giordano.ar/urlpages/examples/project-page.html)
 - A cloned New York Times Article
-  [here](http://fgiordano.tech/urlpages/examples/nyt.html)
+  [here](http://franco.giordano.ar/urlpages/examples/nyt.html)
 
 
 ## Bookmarklet

@@ -75,7 +75,7 @@ javascript:(() => {
       };
 
       const hashObject = b64.encode(JSON.stringify(urlData));
-      return `http://fgiordano.tech/urlpages/#${hashObject}`;
+      return `http://franco.giordano.ar/urlpages/#${hashObject}`;
     },
   };
 
