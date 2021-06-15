@@ -5,40 +5,7 @@
 
 api = apiVersions[LATEST_API_VERSION]
 
-const DEFAULT_HTML = `<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>My Note</title>
-</head>
-<body class="back">
-<div class="box">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nunc pretium metus vitae arcu pulvinar, at facilisis sapien rhoncus.
-Morbi id leo dui. Curabitur finibus, tortor sit amet laoreet sodales,
-nunc urna venenatis lacus, varius aliquet lacus eros id eros.
-Proin a interdum purus, eu maximus metus.
-</div>
-</body>
-</html>`
 
-const DEFAULT_CSS = `.box
-{
-    width: 60vw;
-    font-size: 3rem;
-    color: #2b2b2b;
-    font-style: oblique;
-    text-align: center;
-    margin: auto;
-    padding-top: 10vh;
-    display: flex;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-}
-
-.back {
-    background-color: #fff1e6
-}`
 
 /***
  * Helper functions
@@ -137,9 +104,6 @@ function initialize() {
     document.getElementById("css").value = data["css"];
     document.getElementById("javascript").value = data["js"];
     document.getElementById("html").value = data["html"];
-  } else {
-    document.getElementById("css").value = DEFAULT_CSS;
-    document.getElementById("html").value = DEFAULT_HTML;
   }
 
   update();
